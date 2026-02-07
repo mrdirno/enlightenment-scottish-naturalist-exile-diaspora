@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_naturalist_exile_diaspora",
+  "title": "The Linnaean Exile",
+  "tagline": "A naturalist catalogues the flora of a cleared land, but to classify a wound is not to heal it.",
+  "target_words": 70000,
+  "actual_words": 71457,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Taxonomy of Loss",
+    "Scientific Objectivity vs. Haunted Memory",
+    "Diaspora as a State of Ecological Observation",
+    "The Violence of Naming and Renaming"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Third Passenger",
+      "words": 2975
+    },
+    {
+      "ch": 2,
+      "title": "The Grey Speck by the Pier",
+      "words": 2975
+    },
+    {
+      "ch": 3,
+      "title": "Mrs. MacLeod's Silence",
+      "words": 2975
+    },
+    {
+      "ch": 4,
+      "title": "The King Protea in the Peat",
+      "words": 2975
+    },
+    {
+      "ch": 5,
+      "title": "A Catalogue of Absences",
+      "words": 2975
+    },
+    {
+      "ch": 6,
+      "title": "The New Laird's Windows",
+      "words": 2975
+    },
+    {
+      "ch": 7,
+      "title": "Lus nan Laogh",
+      "words": 2975
+    },
+    {
+      "ch": 8,
+      "title": "The Sound of Scraping",
+      "words": 2975
+    },
+    {
+      "ch": 9,
+      "title": "Non-Native Assemblage",
+      "words": 2975
+    },
+    {
+      "ch": 10,
+      "title": "The Bone in the Heather",
+      "words": 2975
+    },
+    {
+      "ch": 11,
+      "title": "A Letter from the Cape",
+      "words": 2975
+    },
+    {
+      "ch": 12,
+      "title": "The Gaelic Binomial",
+      "words": 2975
+    },
+    {
+      "ch": 13,
+      "title": "The Factor's Ledger",
+      "words": 2975
+    },
+    {
+      "ch": 14,
+      "title": "Ecology of a Ghost",
+      "words": 2975
+    },
+    {
+      "ch": 15,
+      "title": "The Soldier-Straight Pines",
+      "words": 2975
+    },
+    {
+      "ch": 16,
+      "title": "A Specimen of Resentment",
+      "words": 2975
+    },
+    {
+      "ch": 17,
+      "title": "The Society's Instructions",
+      "words": 2975
+    },
+    {
+      "ch": 18,
+      "title": "Askir's First Map",
+      "words": 2975
+    },
+    {
+      "ch": 19,
+      "title": "The Unclassified Heart",
+      "words": 2975
+    },
+    {
+      "ch": 20,
+      "title": "Burning the Notebook",
+      "words": 2975
+    },
+    {
+      "ch": 21,
+      "title": "The Silence After Shouting",
+      "words": 2975
+    },
+    {
+      "ch": 22,
+      "title": "A Different Kind of Cage",
+      "words": 2975
+    },
+    {
+      "ch": 23,
+      "title": "Not a Return",
+      "words": 2975
+    },
+    {
+      "ch": 24,
+      "title": "The Unfinished Flora",
+      "words": 2975
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Alexander discovers a plant he thought extinct, being tended in secret by a villager.",
+      "Create a journal entry from the perspective of the new Laird, explaining his 'improvements' to a friend in London.",
+      "Write a letter from Alexander to a fellow naturalist in the Cape, describing the 'ecological poverty' of the managed estate.",
+      "Draft a folk tale told by Mrs. MacLeod about a spirit that lives in the lichen, recording all it has witnessed."
+    ],
+    "technical": [
+      "Build an interactive map of Sgeir Mhòr/Askir that layers Alexander's scientific observations over historical settlement maps and Gaelic place names.",
+      "Create a generative art piece that uses the novel's text to 'grow' two contrasting floral patterns: one orderly and Latin, one wild and intertwined with Gaelic phrases."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "John Muir",
+      "Amitav Ghosh",
+      "Robin Wall Kimmerer",
+      "W.G. Sebald"
+    ]
+  },
+  "cover_prompt": "A solitary 18th-century naturalist in a worn wool coat kneels in a cleared Scottish glen, his hand hovering over a single, resilient bluebell pushing through scorched earth and tree stumps, a leather-bound field journal open beside him filled with precise sketches, [Detailed Scene & Context: the vast, mist-shrouded Highland landscape behind him bears the scars of recent clearance, with the ghostly outlines of former crofts and the distant, imposing silhouette of a departing landlord's estate on the horizon], [Artistic Style & Medium: in the atmospheric and melancholic style of a Caspar David Friedrich painting, rendered with the textured, luminous realism of a John Atkinson Grimshaw nocturnal scene, using oil on canvas with visible brushwork and glazing], [Composition & Camera: book cover framing, a centered and poignant composition viewed from a low angle that emphasizes the naturalist's isolation against the vast, wounded landscape, dramatic and contemplative], [Lighting & Color Palette: dramatic chiaroscuro lighting from a low, cold twilight sun breaking through pewter clouds, casting long, sorrowful shadows, color palette of somber heather purples, moss greens, charred umbers, and the stark, hopeful blue of the flower against the grey mist], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
