@@ -2,7 +2,8 @@
 
 ## **Chapter 1**
 
-The rain on the roof of the Glasgow-to-Mallaig mail coach was not a weather condition; it was a third passenger, insistent and articulate. It drummed a ceaseless, driving rhythm on the treated canvas, a sound like a thousand tiny peat-cutters striking stone. Inside, jammed between a crate of squawking hens and a roll of sodden tartan wool, Alexander MacAnndra fought a private war against the chill creeping up from the floorboards. He was forty-seven years old, and every one of those years felt presently concentrated in the ache of his knees, pressed against the opposite seat. He held a small, leather-bound notebook away from the damp, his thumb marking a page.
+Cairnsmuir’s damp peat still clung to his boots, though Edinburgh’s cobblestones had been beneath them for a fortnight. Alexander MacAllister pressed a thumb against the pressed, foreign leaf in his pocket, its veins a map to a coastline receding with every league the ship sailed east.
+
 
 Across from him, Mr. Dalgleish, a factor from a northern estate, sucked his teeth. “A filthy baptism for your return, Doctor MacAnndra. The Highlands greet you with her tears.”
 
