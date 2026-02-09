@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The rain on the roof of the Glasgow-to-Mallaig mail coach was not a weather condition; it was a third passenger, insistent and articulate. It drummed a ceaseless, driving rhythm on the treated canvas, a sound like a thousand tiny peat-cutters striking stone. Inside, jammed between a crate of squawking hens and a roll of sodden tartan wool, Alexander MacAnndra fought a private war against the chill creeping up from the floorboards. He was forty-seven years old, and every one of those years felt presently concentrated in the ache of his knees, pressed against the opposite seat. He held a small, leather-bound notebook away from the damp, his thumb marking a page.
@@ -83,6 +85,8 @@ Below the struck-out line, he began again, in English, in the clear, precise scr
 *Observation Log: Sgeir Mhòr (Isle of Askir), Inner Hebrides. Arrived 15th April, 18—. Weather: persistent precipitation, low cloud, moderate south-westerly. Primary objective: systematic survey of vascular plants, with particular attention to alpine-arctic specimens on the central ridge and littoral species of the western machair…*
 
 The light faded from the window. The room grew cold. Alexander MacAnndra wrote on, building a wall of words against the gathering dark, against the memory of a different silence, against the sound of the sea, which was not a roar, but a long, slow exhalation all around his lonely house on the rock.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -215,6 +219,8 @@ After the boy left, Alexander lit his lamp. He spread out his large map of the i
 He was not here to just collect specimens. He was here to bear witness. And perhaps, in bearing witness, to become a thorn in the side of progress. A prickly, inconvenient plant, clinging to a ruin.
 
 Outside, the wind picked up, moaning around the corner of the house. It sounded, for the first time, like a warning.
+
+# Chapter 3
 
 ## **Chapter 3**
 
